@@ -1,0 +1,9 @@
+{
+  "name": "token-saver",
+  "version": "0.1.0",
+  "description": "💰 LLM token 省流器: 压缩+去重+预算追踪",
+  "type": "module",
+  "bin": {
+    "ts": "./bin/ts.js"
+  }
+}
